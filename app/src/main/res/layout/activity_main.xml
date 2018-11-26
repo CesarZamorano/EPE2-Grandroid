@@ -13,6 +13,8 @@
 
     <!--//comentario de prueba-->
 
+    <!--//comentario de prueba 2 // -->
+
     <!-- view for AdMob Banner Ad -->
     <com.google.android.gms.ads.AdView
         android:id="@+id/adView"
