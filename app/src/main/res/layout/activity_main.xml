@@ -11,6 +11,8 @@
         android:layout_height="wrap_content"
         android:text="Wena cabres" />
 
+
+
     <!-- view for AdMob Banner Ad -->
     <com.google.android.gms.ads.AdView
         android:id="@+id/adView"
