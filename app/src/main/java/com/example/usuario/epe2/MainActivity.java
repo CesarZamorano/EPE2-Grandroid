@@ -1,5 +1,6 @@
 package com.example.usuario.epe2;
 
+import com.example.usuario.epe2.R;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 
