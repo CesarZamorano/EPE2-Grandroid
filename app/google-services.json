@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "462665235375",
+    "firebase_url": "https://epe2-gandroid.firebaseio.com",
+    "project_id": "epe2-gandroid",
+    "storage_bucket": "epe2-gandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462665235375:android:3d4d723bf14c0107",
+        "android_client_info": {
+          "package_name": "com.example.usuario.epe2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462665235375-2vcv0kvlbi7t7ah0k3opn3li7iq2ep7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnVsSxQeXdnCSgV8VOKgBJjx39FLNwEeI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
